@@ -101,10 +101,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "2nd grade in electronic engineering"
   location         : "Korea"
+  email            : "ohmk0909@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "ohmk0909@gmail.com"
+    
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MKMK299"
