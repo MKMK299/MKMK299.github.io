@@ -1,10 +1,11 @@
 ---
 layout: single
-title: "C project1 - 두 숫자의 계산"
+title: "C project1 - 두 숫자의 사칙연산"
 categories:
   - C project
 ---
 
+두 숫자의 사칙연산
 ```c
 #include <stdio.h>
 
